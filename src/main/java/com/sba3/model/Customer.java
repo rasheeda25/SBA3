@@ -1,5 +1,9 @@
 package com.sba3.model;
 
+/*
+ * ***********Changes made locally***************
+ * */
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
@@ -49,6 +53,4 @@ public class Customer {
 
 }
 
-/*
- * ***********Changes made locally***************
- * */
+
